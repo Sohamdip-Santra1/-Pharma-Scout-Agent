@@ -1,5 +1,6 @@
 # -Pharma-Scout-Agent
-video : https://youtu.be/978kNIkDZoU?si=5LG9GnttrCh_ADD6 
+- video : https://youtu.be/978kNIkDZoU?si=5LG9GnttrCh_ADD6
+  
 📌 Overview
 
 Pharma-Scout Agent is an AI-powered prescription analysis tool built using the Google GenAI SDK and ADK (Agent Development Kit).
